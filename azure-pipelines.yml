@@ -7,7 +7,7 @@ pool:
 variables:
   azureServiceConnection: "azureconnection"
   resourceGroupName: "myRG"
-  webAppName: "mypythonapp98600"
+  webAppName: "mypythonapp1234"
   slotName: "green"
   pythonVersion: "3.14"
 
